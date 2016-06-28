@@ -1,0 +1,5 @@
+slave:
+  build: .
+  container_name: arachni
+  command: -master http://172.17.0.1:8080/ -name swarm-arachni -disableClientsUniqueId  -disableSslVerification -username admin -password buffer2016 -executors 2
+
