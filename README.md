@@ -4,7 +4,11 @@ Install arachni on docker with docker-compose
 
 command from CLI : docker-compose -f dokcer-compose.yml up -d
 
-note : use sudo if docker need administrator privilage
+note : 
+
+- customize file composer before you run it
+- customize file Docker file before you run file composer 
+- use sudo if docker need administrator privilage
 
 
 
