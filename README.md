@@ -1,6 +1,6 @@
 # Arachni - Docker
 
-Intall arachni on docker with docker-compose
+Install arachni on docker with docker-compose
 
 Step by step:
 
